@@ -2,6 +2,7 @@
 title: "Papataka Book Club A to Z Challenge 2022"
 layout: page
 ---
+[# Home](https://papatakabookclub.github.io/)
 # A to Z Challenge 2022
 ## Leader Board (last updated on)
 |Reader|Points|
