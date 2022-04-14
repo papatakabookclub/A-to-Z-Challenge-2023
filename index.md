@@ -5,6 +5,16 @@ layout: page
 # Papataka Book Club A to Z Challenge 2022
 back to Home
 -------------
+| foo | bar |
+|-----|-----|
+|^^^^^| baz |
+|^    |    ^|
+| quz | ^^^ |
+
+| foo | bar |<    | <<< |
+| --- |-----|-    |    -|
+| baz |<<<<<|    <| quz |
+
 |              | Header 1        | Header 2                       || Header 3                       ||
 |              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
 |==============|-----------------|----------------|----------------|----------------|----------------|
