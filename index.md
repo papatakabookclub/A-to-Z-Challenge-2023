@@ -1,18 +1,28 @@
 ---
-title: "Papataka Book Club A to Z Challenge 2022"
 layout: page
 ---
 
 # Papataka Book Club A to Z Challenge 2022
 back to Home
+
 ------------------------------------
 ## Leader Board (last updated on)
-|Reader|Points|
+Reader | Points
 |:---:|:---:|
 |||
 |||
 |||
 |||
+Reader | Points
+:---:|:---:
+|||
+|||
+|||
+|||
+
+
+
+
 
 ---------------
 | Alphabet  | Book Title  | Rating |Finished by  | Points Scored  | 
