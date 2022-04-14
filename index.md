@@ -26,6 +26,7 @@ back to Home
 |||
 ---------------
 | Alphabet  | Book Title  | Rating |Finished by  | Points Scored  | 
+
 |:---:|---|---|---|---|
 | A |   |   |   |   |
 | B |   |   |   |   |
