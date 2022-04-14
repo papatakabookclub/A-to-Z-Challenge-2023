@@ -2,15 +2,11 @@
 title: "Papataka Book Club A to Z Challenge 2022"
 layout: page
 ---
-[A](https://www.youtube.com/feed/library) | [B](https://www.youtube.com/feed/library)
-
-
 # Papataka Book Club A to Z Challenge 2022
 back to Home
 ------------------------------------
 ## Leader Board (last updated on)
 |Reader|Points|
-
 |:---:|:---:|
 |||
 |||
@@ -19,16 +15,14 @@ back to Home
 
 |Reader|Points|
 |:---:|:---:|
-
 |||
 |||
 |||
 |||
 ---------------
-| Alphabet  | Book Title  | Rating |Finished by  | Points Scored  | 
-
+| Alphabet  | Book Title  | Rating |Finished by | Points Scored  | 
 |:---:|---|---|---|---|
-| A |   |   |   |   |
+| A |  A Man Called Ove |  5 |  Soumith | 300  |
 | B |   |   |   |   |
 | C |   |   |   |   |
 | D  |   |   |   |   |
