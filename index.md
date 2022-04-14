@@ -28,7 +28,7 @@ layout: page
 |Alphabet|Book Title|Rating|Finished by|Points Scored| 
 |:---:|:---|:---:|:---:|---:|
 | A |   |   |   |   |
-| ^ |   |   |   |   |
+| B |   |   |   |   |
 | C |   |   |   |   |
 | D  |   |   |   |   |
 | E  |   |   |   |   |
