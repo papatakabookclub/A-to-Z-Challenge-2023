@@ -10,12 +10,20 @@ back to Home
 ------------------------------------
 ## Leader Board (last updated on)
 |Reader|Points|
+
 |:---:|:---:|
 |||
 |||
 |||
 |||
 
+|Reader|Points|
+|:---:|:---:|
+
+|||
+|||
+|||
+|||
 ---------------
 | Alphabet  | Book Title  | Rating |Finished by  | Points Scored  | 
 |:---:|---|---|---|---|
