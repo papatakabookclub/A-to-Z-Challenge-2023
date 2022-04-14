@@ -13,15 +13,9 @@ back to Home
 |||
 |||
 
-|Reader|Points|
-|:---:|:---:|
-|||
-|||
-|||
-|||
 ---------------
 | Alphabet  | Book Title  | Rating |Finished by | Points Scored  | 
-|:---:|---|---|---|---|
+|:---:|:---|:---:|:---:|---:|
 | A |  A Man Called Ove |  5 |  Soumith | 300  |
 | B |   |   |   |   |
 | C |   |   |   |   |
