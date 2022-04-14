@@ -8,8 +8,8 @@ back to Home
 ## Leader Board (last updated on)
 |Reader|Points|
 |:---:|:---:|
-|||
-|||
+|Soumith|300|
+|Siddu|600|
 |||
 |||
 
