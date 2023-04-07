@@ -43,7 +43,7 @@ Books in all formats, including audiobooks and eBooks, are also considered for t
 
 At the end of the year, the participant with the highest number of points will be declared the winner of the A to Z reading challenge 2023. If you have already read a book, you can still submit it for the challenge as long as it was read in 2023. Good luck and happy reading!
 
-[Google Form](https://forms.gle/914RmFsjnP57x4LW8)]
+[Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 </details>
 
 **Leader Board** *(last updated on:)*
