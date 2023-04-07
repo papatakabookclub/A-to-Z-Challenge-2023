@@ -26,7 +26,7 @@ At the end of the year, the participant with the highest number of points will b
 
 <details>
     <summary>Read This</summary>
-    Foldable ContentThe A to Z reading challenge is a year-long challenge where participants select a letter of the alphabet and read books whose titles begin with that letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
+    The A to Z reading challenge is a year-long challenge where participants select a letter of the alphabet and read books whose titles begin with that letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
 
 Examples:
 
@@ -43,7 +43,7 @@ Books in all formats, including audiobooks and eBooks, are also considered for t
 
 At the end of the year, the participant with the highest number of points will be declared the winner of the A to Z reading challenge 2023. If you have already read a book, you can still submit it for the challenge as long as it was read in 2023. Good luck and happy reading!
 
-[Google Form](https://forms.gle/914RmFsjnP57x4LW8)][1]
+[Google Form](https://forms.gle/914RmFsjnP57x4LW8)]
 </details>
 
 **Leader Board** *(last updated on:)*
