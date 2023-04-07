@@ -5,7 +5,7 @@ layout: page
 [Home](https://papatakabookclub.github.io/)
 
 # A to Z Challenge 2023
-The A to Z reading challenge is a year-long challenge where participants select a letter of the alphabet and read books whose titles begin with that letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a Google Form after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
+The A to Z reading challenge is a year-long challenge where participants select a letter of the alphabet and read books whose titles begin with that letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
 
 Examples:
 
@@ -18,9 +18,11 @@ To participate, simply choose an available letter of the alphabet on a first com
 1. "The Nightingale" by Kristin Hannah (440 pages) - worth 440 points for the letter "N"
 2. "A Little Life" by Hanya Yanagihara (832 pages) - worth  832 points for letter "L"
 
-Books in all formats, including audiobooks and eBooks, are also considered for the challenge. To submit a book, participants must fill out the Google Form with information such as the book title, author, page count, and selected letter. Participants can also choose to share a brief review of the book on the form, and if they share their review on social media and tag the challenge, they will receive an extra 10 bonus points!
+Books in all formats, including audiobooks and eBooks, are also considered for the challenge. To submit a book, participants must fill out the [Google Form](https://forms.gle/914RmFsjnP57x4LW8) with information such as the book title, author, page count, and selected letter. Participants can also choose to share a brief review of the book on the form, and if they share their review on social media and tag the challenge, they will receive an extra 10 bonus points!
 
 At the end of the year, the participant with the highest number of points will be declared the winner of the A to Z reading challenge 2023. If you have already read a book, you can still submit it for the challenge as long as it was read in 2023. Good luck and happy reading!
+
+[Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 **Leader Board** *(last updated on:)*
 |Position|Reader|Points|
