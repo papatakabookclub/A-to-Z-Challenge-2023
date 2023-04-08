@@ -31,7 +31,7 @@ At the end of the year, the participant with the highest number of points will b
 ||||
 ||||
 -------
-|Alphabet|Book Title|Rating|Finished by|Points Scored| 
+|Alphabet|Book Title|Finished by|Points Scored|Review| 
 |:---:|:---|:---:|:---:|---:|
 | A |   |   |   |   |
 | B |   |   |   |   | |
