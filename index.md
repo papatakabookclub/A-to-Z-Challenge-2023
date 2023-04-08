@@ -67,4 +67,4 @@ At the end of the year, the participant with the highest number of points will b
 | Y  |   |   |   |   |
 | Z  |   |   |   |   |
 
-* +10 for sharing review or tagging papataka book club on social media
+*  *+10 for sharing review or tagging papataka book club on social media
