@@ -25,16 +25,16 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-**Leader Board** *(last updated on:)*
+**Leader Board** *(last updated on:08/04/2023)*
 |Position|Reader|Points|
 |:---:|:---|---:|
 ||||
 ||||
 -------
 |Alphabet|Book Title|Finished by|Points Scored|Review| 
-|:---:|:---|:---:|:---:|---:|
+|:---:|:---|:---:|:---:|:---|
 | A |   |   |   |   |
-| B |   |   |   |   | |
+| B | Born a crime  |  Gajoju Akshay Kapil  | 256*  |  It's an auto biography of Trevor Noah. It describes about his childhood in South Africa where inter racial discrimination was at a peak and he was born to interracial parents. Thus the title "Born a crime". He speaks up about his struggles, lifestyle, his mom's efforts in the period of apartheid.It's a very good book mixed with emotion and humour. | 
 | C |   |   |   |   |
 | D  |   |   |   |   |
 | E  |   |   |   |   |
@@ -48,14 +48,16 @@ At the end of the year, the participant with the highest number of points will b
 |  M |   |   |   |   |
 |  N |   |   |   |   |
 | O  |   |   |   |   |
-| P  |   |   |   |   |
+| P  | Persepolis  | Deepanwita Maitra  |  353 |   |
 | Q  |   |   |   |   |
 | R  |   |   |   |   |
 | S  |   |   |   |   |
-| T  |   |   |   |   |
+| T  | The Thursday murder club  | Naseera Fathima  |  392* | [Review](https://www.instagram.com/p/CocVnGvrH0J/?utm_source=ig_web_copy_link)  |
 | U  |   |   |   |   |
 | V  |   |   |   |   |
 | W  |   |   |   |   |
 | X  |   |   |   |   |
 | Y  |   |   |   |   |
 | Z  |   |   |   |   |
+
+* +10 for sharing review or tagging papataka book club on social media
