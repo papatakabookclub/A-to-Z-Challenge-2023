@@ -28,9 +28,9 @@ At the end of the year, the participant with the highest number of points will b
 ## **Leaderboard** *(last updated on: 17/04/2023)*
 |Position|Reader|Points|
 |:---:|:---|---:|
-|1|Deepanwita Maitra|515|
-|2|Naseera Fathima|392|
-|3|Soumith|330|
+|1|Soumith|559|
+|2|Deepanwita Maitra|515|
+|3|Naseera Fathima|392|
 |4|Gajoju Akshay Kapil|256|
 
 
@@ -53,7 +53,7 @@ At the end of the year, the participant with the highest number of points will b
 | J  |   |   |   |   |
 | K  |   |   |   |   |
 |  L | Lajja  | Soumith  |  330* | Lajja by Taslima Nasreen is a thought-provoking novel that highlights the struggles of a minority family living in Bangladesh. The story is set after the Babri Masjid incident in India, which triggers a series of unfortunate events in Bangladesh leading to the persecution of minorities. As I read this book, I found myself questioning the safety of minorities in my own country and how the internal problems of a country can have a significant impact on the citizens of another country. Lajja is a powerful and important book that raises critical questions about communal violence and its impact on minority communities. It is a must-read for anyone interested in South Asian politics, religion, and social issues.  |
-|  M |   |   |   |   |
+|  M | My Story  | Soumith  |  219 |   |
 |  N |  Name Place Animal Thing | Deepanwita Maitra  | 198  |   |
 | O  |   |   |   |   |
 | P  | Persepolis  | Deepanwita Maitra  |  353 |   |
