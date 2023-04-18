@@ -28,7 +28,7 @@ At the end of the year, the participant with the highest number of points will b
 ## **Leaderboard** *(last updated on: 17/04/2023)*
 |Position|Reader|Points|
 |:---:|:---|---:|
-|1|Soumith|559|
+|1|Soumith|549|
 |2|Deepanwita Maitra|515|
 |3|Naseera Fathima|392|
 |4|Gajoju Akshay Kapil|256|
