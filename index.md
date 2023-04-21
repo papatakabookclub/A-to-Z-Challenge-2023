@@ -5,7 +5,7 @@ layout: page
 [Home](https://papatakabookclub.github.io/)
 
 # A to Z Reading Challenge 2023
-The A to Z reading challenge is a year-long challenge where participants can pick multiple letters of the alphabet and read books whose titles begin with those letters. However, each book can only be counted for one chosen letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
+The A to Z reading challenge is a year-long challenge where participants can pick a letter of the alphabet and read books whose titles begin with that letter. Each participant can pick multiple letters to complete the challenge but can only read one book per letter. If a letter is already taken by someone else, no points will be awarded for reading a book starting with that letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
 
 Examples:
 
