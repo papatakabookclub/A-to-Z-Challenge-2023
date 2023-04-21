@@ -5,7 +5,7 @@ layout: page
 [Home](https://papatakabookclub.github.io/)
 
 # A to Z Reading Challenge 2023
-The A to Z reading challenge is a year-long challenge where participants select a letter of the alphabet and read books whose titles begin with that letter. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
+The A to Z reading challenge is a year-long challenge where participants can pick multiple letters of the alphabet and read books whose titles begin with those letters. However, each book can only be counted for one chosen lette. Participants are encouraged to read as many books as they can and keep track of their progress by filling out a [Google Form](https://forms.gle/914RmFsjnP57x4LW8) after each book. Points are awarded based on the number of pages read, and a leaderboard is created and updated weekly.
 
 Examples:
 
@@ -47,7 +47,7 @@ At the end of the year, the participant with the highest number of points will b
 | D  |   |   |   |   |
 | E  |   |   |   |   |
 |  F |   |   |   |   |
-|  G |   |   |   |   |
+|  G | The Girl on the train  |  Bharat C.Reddy |  426* |  Its was thrilling to say the least. It made me use my imagination to the fullest, it almost felt like a movie with a great screen play. It subtly shows how the world is SO not like how we perceive it. Shedding light on complex human nature, relationship paradoxes, and shallowness in imposition of personal hopes and biases onto other people lives.  |
 | H  |   |   |   |   |
 | I  |   |   |   |   |
 | J  |   |   |   |   |
@@ -55,7 +55,7 @@ At the end of the year, the participant with the highest number of points will b
 |  L | Lajja  | Soumith  |  330* | Lajja by Taslima Nasreen is a thought-provoking novel that highlights the struggles of a minority family living in Bangladesh. The story is set after the Babri Masjid incident in India, which triggers a series of unfortunate events in Bangladesh leading to the persecution of minorities. As I read this book, I found myself questioning the safety of minorities in my own country and how the internal problems of a country can have a significant impact on the citizens of another country. Lajja is a powerful and important book that raises critical questions about communal violence and its impact on minority communities. It is a must-read for anyone interested in South Asian politics, religion, and social issues.  |
 |  M | My Story  | Soumith  |  219 |   |
 |  N |  Name Place Animal Thing | Deepanwita Maitra  | 198  |   |
-| O  |   |   |   |   |
+| O  |  Other words for home | Naseera Fathima  | 318*  |  [Review](https://www.instagram.com/p/CrCrLBHLrVY/) |
 | P  | Persepolis  | Deepanwita Maitra  |  353 |   |
 | Q  |   |   |   |   |
 | R  |   |   |   |   |
@@ -63,7 +63,7 @@ At the end of the year, the participant with the highest number of points will b
 | T  | The Thursday murder club  | Naseera Fathima  |  392* | [Review](https://www.instagram.com/p/CocVnGvrH0J/?utm_source=ig_web_copy_link)  |
 | U  |   |   |   |   |
 | V  |   |   |   |   |
-| W  |   |   |   |   |
+| W  |  Wrong time, wrong place | Naseera Fathima  | 426*  | [Review](https://www.instagram.com/p/CqXHT2grqcC/)  |
 | X  |   |   |   |   |
 | Y  |   |   |   |   |
 | Z  |   |   |   |   |
