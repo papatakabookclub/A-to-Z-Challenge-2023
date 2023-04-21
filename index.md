@@ -29,8 +29,8 @@ At the end of the year, the participant with the highest number of points will b
 |Position|Reader|Points|
 |:---:|:---|---:|
 |1|Naseera Fathima|1136|
-|2|Soumith|549|
-|3|Deepanwita Maitra|515|
+|2|Deepanwita Maitra|551|
+|3|Soumith|549|
 |4|Bharat C.Reddy|426|
 |5|Gajoju Akshay Kapil|256|
 
