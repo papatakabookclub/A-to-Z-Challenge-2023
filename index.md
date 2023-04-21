@@ -25,14 +25,14 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 17/04/2023)*
-|Position|Reader|Points|
-|:---:|:---|---:|
-|1|Naseera Fathima|1136|
-|2|Deepanwita Maitra|551|
-|3|Soumith|549|
-|4|Bharat C.Reddy|426|
-|5|Gajoju Akshay Kapil|256|
+## **Leaderboard** *(last updated on: 21/04/2023)*
+|Position|Reader|Books Read|Points|
+|:---:|:---|:---:|---:|
+|1|Naseera Fathima|3|1136|
+|2|Deepanwita Maitra|2|551|
+|3|Soumith|2|549|
+|4|Bharat C.Reddy|1|426|
+|5|Gajoju Akshay Kapil|1|256|
 
 
 
