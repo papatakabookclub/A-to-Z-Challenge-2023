@@ -28,7 +28,7 @@ At the end of the year, the participant with the highest number of points will b
 ## **Leaderboard** *(last updated on: 21/04/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
-|1|Naseera Fathima|3|1136|
+|1|Naseera Fathima|3|1605|
 |2|Deepanwita Maitra|2|551|
 |3|Soumith|2|549|
 |4|Bharat C.Reddy|1|426|
@@ -42,7 +42,7 @@ At the end of the year, the participant with the highest number of points will b
 -------
 |Alphabet|Book Title|Finished by|Points Scored|Review| 
 |:---:|:---|:---:|:---:|:---|
-| A |   |   |   |   |
+| A |  As good as dead | Naseera Fathima  |  469* | [Review](https://www.instagram.com/p/CraTDapLXc0/)  |
 | B | Born a crime  |  Gajoju Akshay Kapil  | 256*  |  It's an auto biography of Trevor Noah. It describes about his childhood in South Africa where inter racial discrimination was at a peak and he was born to interracial parents. Thus the title "Born a crime". He speaks up about his struggles, lifestyle, his mom's efforts in the period of apartheid.It's a very good book mixed with emotion and humour. | 
 | C |   |   |   |   |
 | D  |   |   |   |   |
