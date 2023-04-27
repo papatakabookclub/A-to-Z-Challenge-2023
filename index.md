@@ -28,7 +28,7 @@ At the end of the year, the participant with the highest number of points will b
 ## **Leaderboard** *(last updated on: 28/04/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
-|1|Naseera Fathima|4|1963|
+|1|Naseera Fathima|5|1963|
 |2|Deepanwita Maitra|2|551|
 |3|Soumith|2|549|
 |4|Bharat C.Reddy|1|426|
