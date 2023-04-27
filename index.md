@@ -25,10 +25,10 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 24/04/2023)*
+## **Leaderboard** *(last updated on: 28/04/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
-|1|Naseera Fathima|4|1605|
+|1|Naseera Fathima|4|1963|
 |2|Deepanwita Maitra|2|551|
 |3|Soumith|2|549|
 |4|Bharat C.Reddy|1|426|
@@ -50,7 +50,7 @@ At the end of the year, the participant with the highest number of points will b
 |  F |   |   |   |   |
 |  G | The Girl on the train  |  Bharat C.Reddy |  426* |  Its was thrilling to say the least. It made me use my imagination to the fullest, it almost felt like a movie with a great screen play. It subtly shows how the world is SO not like how we perceive it. Shedding light on complex human nature, relationship paradoxes, and shallowness in imposition of personal hopes and biases onto other people lives.  |
 | H  |   |   |   |   |
-| I  |   |   |   |   |
+| I  |  Independence  |  Independence  | 358  |   |
 | J  |   |   |   |   |
 | K  |   |   |   |   |
 |  L | Lajja  | Soumith  |  330* | Lajja by Taslima Nasreen is a thought-provoking novel that highlights the struggles of a minority family living in Bangladesh. The story is set after the Babri Masjid incident in India, which triggers a series of unfortunate events in Bangladesh leading to the persecution of minorities. As I read this book, I found myself questioning the safety of minorities in my own country and how the internal problems of a country can have a significant impact on the citizens of another country. Lajja is a powerful and important book that raises critical questions about communal violence and its impact on minority communities. It is a must-read for anyone interested in South Asian politics, religion, and social issues.  |
