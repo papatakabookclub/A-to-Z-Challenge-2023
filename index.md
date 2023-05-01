@@ -25,13 +25,13 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 28/04/2023)*
+## **Leaderboard** *(last updated on: 02/05/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
-|1|Naseera Fathima|5|1963|
-|2|Deepanwita Maitra|2|551|
-|3|Soumith|2|549|
-|4|Bharat C.Reddy|1|426|
+|1|Naseera Fathima|6|2214|
+|2|Deepanwita Maitra|5|1025|
+|3|Bharat C.Reddy|2|892|
+|4|Soumith|2|549|
 |5|Gajoju Akshay Kapil|1|256|
 
 
@@ -45,13 +45,13 @@ At the end of the year, the participant with the highest number of points will b
 | A |  As good as dead | Naseera Fathima  |  469* | [Review](https://www.instagram.com/p/CraTDapLXc0/)  |
 | B | Born a crime  |  Gajoju Akshay Kapil  | 256*  |  It's an auto biography of Trevor Noah. It describes about his childhood in South Africa where inter racial discrimination was at a peak and he was born to interracial parents. Thus the title "Born a crime". He speaks up about his struggles, lifestyle, his mom's efforts in the period of apartheid.It's a very good book mixed with emotion and humour. | 
 | C |   |   |   |   |
-| D  |   |   |   |   |
+| D  | Demon Haunted world  | Bharat C.Reddy  | 466*  | Carl Sagan illuminates on science, Aliens, Alien abduction theories, superstitions, Mysterious appearance of Gods and Human faces everywhere (moon, fruits, clouds) and Crop cutting patterns, witch hunts of Medieval europe, Hallucinations, How Gurus, Religion leaders, Cults profess practices or continue superstitions under the guise scientific evidence- Pseudoscience. Then goes on to talk about skepticism and importance of questioning. Finally talks about scientific responsibility and education to enable new discoveries and prevent misuse. PS: Also gives a Baloney detection kit with to catch Pseudoscientific arguments and general mystery crap. It might get a bit boring at times, have patience, it totally changes your perception about the world.  |
 | E  |   |   |   |   |
-|  F |   |   |   |   |
-|  G | The Girl on the train  |  Bharat C.Reddy |  426* |  Its was thrilling to say the least. It made me use my imagination to the fullest, it almost felt like a movie with a great screen play. It subtly shows how the world is SO not like how we perceive it. Shedding light on complex human nature, relationship paradoxes, and shallowness in imposition of personal hopes and biases onto other people lives.  |
-| H  |   |   |   |   |
+|  F | Farewell to Gabo and Mercedes   |  Deepanwita Maitra | 176  |   |
+|  G | The Girl on the train  |  Bharat C.Reddy |  426* |  Its was thrilling to say the least. It made me use my imagination to the fullest, it almost felt like a movie with a great screen play. It subtly shows how the world is SO not like how we perceive it. Shedding light on complex human nature, relationship paradoxes, and shallowness in imposition of personal hopes and biases onto other people lives. |
+| H  |  Hercule Poirot’s Christmas  | Naseera Fathima  |  251 |   |
 | I  |  Independence  |  Independence  | 358  |   |
-| J  |   |   |   |   |
+| J  |  Jungle Nama | Deepanwita Maitra  |  88 |   |
 | K  |   |   |   |   |
 |  L | Lajja  | Soumith  |  330* | Lajja by Taslima Nasreen is a thought-provoking novel that highlights the struggles of a minority family living in Bangladesh. The story is set after the Babri Masjid incident in India, which triggers a series of unfortunate events in Bangladesh leading to the persecution of minorities. As I read this book, I found myself questioning the safety of minorities in my own country and how the internal problems of a country can have a significant impact on the citizens of another country. Lajja is a powerful and important book that raises critical questions about communal violence and its impact on minority communities. It is a must-read for anyone interested in South Asian politics, religion, and social issues.  |
 |  M | My Story  | Soumith  |  219 |   |
@@ -59,7 +59,7 @@ At the end of the year, the participant with the highest number of points will b
 | O  |  Other words for home | Naseera Fathima  | 318*  |  [Review](https://www.instagram.com/p/CrCrLBHLrVY/) |
 | P  | Persepolis  | Deepanwita Maitra  |  353 |   |
 | Q  |   |   |   |   |
-| R  |   |   |   |   |
+| R  |  The reason I jump | Deepanwita Maitra  | 210  |   |
 | S  |   |   |   |   |
 | T  | The Thursday murder club  | Naseera Fathima  |  392* | [Review](https://www.instagram.com/p/CocVnGvrH0J/?utm_source=ig_web_copy_link)  |
 | U  |   |   |   |   |
