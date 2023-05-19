@@ -25,12 +25,12 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 02/05/2023)*
+## **Leaderboard** *(last updated on: 20/05/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
-|1|Naseera Fathima|7|2582|
-|2|Deepanwita Maitra|5|1025|
-|3|Bharat C.Reddy|2|892|
+|1|Naseera Fathima|8|2916|
+|2|Bharat C.Reddy|3|1096|
+|3|Deepanwita Maitra|5|1025|
 |4|Soumith|2|549|
 |5|Gajoju Akshay Kapil|1|256|
 
@@ -63,10 +63,10 @@ At the end of the year, the participant with the highest number of points will b
 | S  |   |   |   |   |
 | T  | The Thursday murder club  | Naseera Fathima  |  392* | [Review](https://www.instagram.com/p/CocVnGvrH0J/?utm_source=ig_web_copy_link)  |
 | U  |   |   |   |   |
-| V  |   |   |   |   |
+| V  | Vera Wong’s unsolicited advice for murderers  | 334  | Naseera Fathima  |   |
 | W  |  Wrong time, wrong place | Naseera Fathima  | 426*  | [Review](https://www.instagram.com/p/CqXHT2grqcC/)  |
 | X  |   |   |   |   |
 | Y  |   |   |   |   |
-| Z  |   |   |   |   |
+| Z  |  Zero to one |  Bharat C.Reddy | 204*  | It is an interesting read offering great insights into startup world. It particularly demystifies all the gaga over entrepreneurship. It challenges many conventional ideas about monopolies, markets, capital, sales and founders, and offers new perspectives. Definitely not a one time read.  |
 
 *  *+10 for sharing review or tagging papataka book club on social media
