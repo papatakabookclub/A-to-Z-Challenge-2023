@@ -33,6 +33,7 @@ At the end of the year, the participant with the highest number of points will b
 |3|Deepanwita Maitra|5|1025|
 |4|Soumith|2|549|
 |5|Gajoju Akshay Kapil|1|256|
+|6|Gayathri Appanabhotla|1|240|
 
 
 
@@ -62,7 +63,7 @@ At the end of the year, the participant with the highest number of points will b
 | R  |  The reason I jump | Deepanwita Maitra  | 210  |   |
 | S  |   |   |   |   |
 | T  | The Thursday murder club  | Naseera Fathima  |  392* | [Review](https://www.instagram.com/p/CocVnGvrH0J/?utm_source=ig_web_copy_link)  |
-| U  |   |   |   |   |
+| U  | Undercover Jihadi Bride  |  Gayathri Appanabhotla  | 240  |   |
 | V  | Vera Wong’s unsolicited advice for murderers  | 334  | Naseera Fathima  |   |
 | W  |  Wrong time, wrong place | Naseera Fathima  | 426*  | [Review](https://www.instagram.com/p/CqXHT2grqcC/)  |
 | X  |   |   |   |   |
