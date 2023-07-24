@@ -25,7 +25,7 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 20/05/2023)*
+## **Leaderboard** *(last updated on: 24/07/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
 |1|Naseera Fathima|8|2916|
