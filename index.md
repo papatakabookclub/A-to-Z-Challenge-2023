@@ -25,15 +25,16 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 24/07/2023)*
+## **Leaderboard** *(last updated on: 21/09/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
 |1|Naseera Fathima|8|2916|
 |2|Bharat C.Reddy|4|1261|
 |3|Deepanwita Maitra|5|1025|
-|4|Soumith|3|669|
-|5|Gajoju Akshay Kapil|1|256|
-|6|Gayathri Appanabhotla|1|240|
+|4|Madhavi Gopinath|2|785|
+|5|Soumith|4|717|
+|6|Gajoju Akshay Kapil|1|256|
+|7|Gayathri Appanabhotla|1|240|
 
 
 
@@ -47,7 +48,7 @@ At the end of the year, the participant with the highest number of points will b
 | B | Born a crime  |  Gajoju Akshay Kapil  | 256*  |  It's an auto biography of Trevor Noah. It describes about his childhood in South Africa where inter racial discrimination was at a peak and he was born to interracial parents. Thus the title "Born a crime". He speaks up about his struggles, lifestyle, his mom's efforts in the period of apartheid.It's a very good book mixed with emotion and humour. | 
 | C | Can you keep a secret | Naseera Fathima  | 368  |   |
 | D  | Demon Haunted world  | Bharat C.Reddy  | 466*  | Carl Sagan illuminates on science, Aliens, Alien abduction theories, superstitions, Mysterious appearance of Gods and Human faces everywhere (moon, fruits, clouds) and Crop cutting patterns, witch hunts of Medieval europe, Hallucinations, How Gurus, Religion leaders, Cults profess practices or continue superstitions under the guise scientific evidence- Pseudoscience. Then goes on to talk about skepticism and importance of questioning. Finally talks about scientific responsibility and education to enable new discoveries and prevent misuse. PS: Also gives a Baloney detection kit with to catch Pseudoscientific arguments and general mystery crap. It might get a bit boring at times, have patience, it totally changes your perception about the world.  |
-| E  |   |   |   |   |
+| E  | Eleanor Oliphant is Completely Fine | Madhavi Gopinath   | 400 |   |
 |  F | Farewell to Gabo and Mercedes   |  Deepanwita Maitra | 176  |   |
 |  G | The Girl on the train  |  Bharat C.Reddy |  426* |  Its was thrilling to say the least. It made me use my imagination to the fullest, it almost felt like a movie with a great screen play. It subtly shows how the world is SO not like how we perceive it. Shedding light on complex human nature, relationship paradoxes, and shallowness in imposition of personal hopes and biases onto other people lives. |
 | H  |  Hercule Poirot’s Christmas  | Naseera Fathima  |  251 |   |
@@ -66,8 +67,8 @@ At the end of the year, the participant with the highest number of points will b
 | U  | Undercover Jihadi Bride  |  Gayathri Appanabhotla  | 240  |   |
 | V  | Vera Wong’s unsolicited advice for murderers  |  Naseera Fathima | 334   |  |
 | W  |  Wrong time, wrong place | Naseera Fathima  | 426*  | [Review](https://www.instagram.com/p/CqXHT2grqcC/)  |
-| X  |   |   |   |   |
-| Y  |   |   |   |   |
+| X  |  Xingu | Soumith  |  48 |   |
+| Y  |  Yellowface  |  Madhavi Gopinath  |  385 |   |
 | Z  |  Zero to one |  Bharat C.Reddy | 204*  | It is an interesting read offering great insights into startup world. It particularly demystifies all the gaga over entrepreneurship. It challenges many conventional ideas about monopolies, markets, capital, sales and founders, and offers new perspectives. Definitely not a one time read.  |
 
 *  *+10 for sharing review or tagging papataka book club on social media
