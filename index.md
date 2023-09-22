@@ -25,13 +25,13 @@ At the end of the year, the participant with the highest number of points will b
 [Google Form](https://forms.gle/914RmFsjnP57x4LW8)
 
 
-## **Leaderboard** *(last updated on: 21/09/2023)*
+## **Leaderboard** *(last updated on: 22/09/2023)*
 |Position|Reader|Books Read|Points|
 |:---:|:---|:---:|---:|
 |1|Naseera Fathima|8|2916|
 |2|Bharat C.Reddy|4|1261|
-|3|Deepanwita Maitra|5|1025|
-|4|Madhavi Gopinath|2|785|
+|3|Madhavi Gopinath|3|1148|
+|4|Deepanwita Maitra|5|1025|
 |5|Soumith|4|717|
 |6|Gajoju Akshay Kapil|1|256|
 |7|Gayathri Appanabhotla|1|240|
@@ -60,7 +60,7 @@ At the end of the year, the participant with the highest number of points will b
 |  N |  Name Place Animal Thing | Deepanwita Maitra  | 198  |   |
 | O  |  Other words for home | Naseera Fathima  | 318*  |  [Review](https://www.instagram.com/p/CrCrLBHLrVY/) |
 | P  | Persepolis  | Deepanwita Maitra  |  353 |   |
-| Q  |   |   |   |   |
+| Q  | Quiet | Madhavi Gopinath   |  363 |   |
 | R  |  The reason I jump | Deepanwita Maitra  | 210  |   |
 | S  | Socrates meets Jesus  | Bharat C.Reddy  |  165* |  It is an apologetic. It tries to confront Christian theology with a rational mind in the form of Socrates. Discussions on specific topics are quite intriguing. As all works on religious thought, it won't give definitive answers, but gives a lot more clarity on beliefs that are generally taken for granted or personal interpretations of mythology and justifications thus made based on utilitarian significance of those myths. |
 | T  | The Thursday murder club  | Naseera Fathima  |  392* | [Review](https://www.instagram.com/p/CocVnGvrH0J/?utm_source=ig_web_copy_link)  |
